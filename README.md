@@ -2,7 +2,7 @@
 
 # 👋 Xin chào, tôi là Tăng Tấn Vỹ
 
-**Sinh viên Công nghệ thông tin · Yêu thích AI, Web Development & UI/UX**
+**Sinh viên Công nghệ thông tin · Quan tâm đến AI, phát triển web và UI/UX**
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9oZzM4MHp0dmNleWR2OXB3cDhqZmk1ODNuN3V3dDh5cjIzeDIxNiZlcD12MV9pbnRlcm5hbF9naWQmY3Q9Zw/hryis7A55UXZNCUTNA/giphy.gif" width="105" alt="Animated contribution counter" />
 
@@ -10,47 +10,48 @@
 
 ## 🚀 Giới thiệu
 
-Tôi là **Tăng Tấn Vỹ**, một sinh viên đam mê phát triển phần mềm và công nghệ. Tôi đang học hỏi, phát triển kỹ năng về AI, Web Development và UI/UX Design, với mục tiêu tạo ra những sản phẩm hữu ích, trực quan và mang đến trải nghiệm tốt cho người dùng.
+Tôi là **Tăng Tấn Vỹ**, sinh viên Công nghệ thông tin yêu thích phát triển phần mềm. Tôi đang trau dồi kỹ năng về phát triển web, Python và Machine Learning, đồng thời quan tâm đến việc xây dựng sản phẩm hữu ích, dễ sử dụng.
 
-- 💻 **Chuyên ngành:** Công nghệ thông tin  
-- 🌱 **Đang học:** AI, Web Development và UI/UX  
-- 🎯 **Mục tiêu:** Xây dựng sản phẩm có giá trị và trải nghiệm người dùng tốt  
-- 📚 **Tinh thần:** Luôn sẵn sàng học hỏi công nghệ mới và phát triển bản thân  
+- 💻 **Chuyên ngành:** Công nghệ thông tin
+- 🌱 **Quan tâm:** Web Development, AI và UI/UX
+- 🎯 **Mục tiêu:** Xây dựng sản phẩm có giá trị và trải nghiệm người dùng tốt
+- 📚 **Tinh thần:** Luôn học hỏi và cải thiện kỹ năng
 
 ## 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ## 📂 Dự án nổi bật
 
 | Dự án | Mô tả | Công nghệ |
 | :--- | :--- | :--- |
-| 🌱 **Smart Farm** | Hệ thống nông nghiệp thông minh. | JavaScript · Web |
-| 🤖 **AI Application** | Ứng dụng AI hỗ trợ người dùng. | Python · AI |
-| 🎨 **Portfolio Website** | Website cá nhân giới thiệu dự án và kỹ năng. | React · UI/UX |
-
-> Các dự án sẽ được cập nhật thêm trong thời gian tới.
+| [🎬 Movie Geek Project](https://github.com/TanVyIT/Movie-Geek-Project) | Dự án về phim ảnh. | Python |
+| [🗂️ Flashcard](https://github.com/TanVyIT/Flashcard_nodejs) | Ứng dụng flashcard hỗ trợ việc học và ôn tập. | Node.js |
+| [🛒 Store Project](https://github.com/TanVyIT/Store-Project-Django) | Dự án cửa hàng trực tuyến. | Python · Django |
+| [👥 Human Resource Management](https://github.com/TanVyIT/Human-resource-management-ReactJS) | Ứng dụng quản lý nhân sự. | ReactJS |
+| [📊 Retail Sales Upsell ML](https://github.com/TanVyIT/retail-sales-upsell-ml) | Dự án Machine Learning về bán lẻ và upsell. | Python · Machine Learning |
 
 ## 💡 Điều tôi quan tâm
 
-- 🤖 Ứng dụng AI trong cuộc sống và sản phẩm số
+- 🤖 Ứng dụng AI vào các sản phẩm thực tế
 - 🌐 Phát triển website hiện đại, thân thiện và responsive
-- 🎨 Thiết kế UI/UX đơn giản, rõ ràng và dễ sử dụng
-- ⚙️ Viết code sạch, tối ưu và luôn cải thiện từng ngày
+- 🎨 Thiết kế giao diện rõ ràng, dễ sử dụng
+- ⚙️ Viết code dễ đọc và liên tục cải thiện
 
 ## 📫 Kết nối với tôi
 
-- GitHub: [github.com/TanVyT](https://github.com/TanVyT)
+- GitHub: [github.com/TanVyIT](https://github.com/TanVyIT)
 - Email: `vy108803@donga.edu.vn`
 - LinkedIn: *Sẽ cập nhật sớm*
 

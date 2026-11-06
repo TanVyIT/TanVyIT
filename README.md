@@ -52,7 +52,7 @@ Tôi là **Tăng Tấn Vỹ**, sinh viên Công nghệ thông tin yêu thích ph
 ## 📫 Kết nối với tôi
 
 - GitHub: [github.com/TanVyIT](https://github.com/TanVyIT)
-- Email: `vy108803@donga.edu.vn`
+- Email: `tangtanvy@gmail.com`
 - LinkedIn: *Sẽ cập nhật sớm*
 
 ---
